@@ -16,7 +16,7 @@ Krok 3: Import bazy danych
 1. W przeglądarce otwórz:
 http://localhost/phpmyadmin
 Kliknij Nowa, aby utworzyć nową bazę danych o nazwie:
-sale_rezerwacje
+rezerwacje_sali
  Przejdź do zakładki Import.
 Wybierz plik baza.sql z folderu projektu i kliknij Wykonaj.
 Krok 4: Uruchomienie aplikacji
